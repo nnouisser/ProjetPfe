@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: nouisseroumaima@gmail.com
+  DevAccountToken: 93pm3qkg4uje9wb3dui9by7zchhk34k6n5wajebs36zw6zs9nikzb3knu1mxc5rw1f7imsibemr3juf8ogep1ou7zbtj1938pnp368ztxc5ndrchb8yt38mnjugf3wwor5woqs43bfq7d3j3zkrcyziccrh3ydsqgw4cmqybiptsc5wwpn4etr1meccnq6coc4g4wotb
+  AadAuthorization: 
+  SelectedStudio: The Cursed Labyrinth
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0
